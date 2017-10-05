@@ -102,7 +102,7 @@ Note that, at least on the PC version, this is bugged. This number will _always_
 
 [3] "Far" is further than 5000 units from Maria. You can mostly only get it when running outside.
 
-[4] You can confirm the bump if Maria vocalizes "agh".
+[4] You can confirm the bump if Maria vocalizes "ugh".
 
 [5] Bugged, at least on the PC version. It's given to you the first time you enter the room with her, and so is unmissable.
 
@@ -112,7 +112,7 @@ Note that, at least on the PC version, this is bugged. This number will _always_
 It's calculated like this, every frame:
 ```c
 //sin is in radians
-//deltaTime: time in milliseconds of each frame. 0.03333 for 30FPS, 0.016666 for 60 FPS
+//deltaTime: time in milliseconds of each frame. 0.03333 for 30 FPS, 0.016666 for 60 FPS
 float hpPercent = health / maxHealth;
 if(hpPercent  < 0.50)
 {
@@ -123,7 +123,7 @@ if(hpPercent  < 0.50)
 Technically, it is if you took less than 1 damage, not 0. But that's pretty much impossible.
 It is calculated like this:
 ```c
-if(damageTaken > 1.0)
+if(damageTakenByJames > 1.0)
 {
   if(monsterDmgDoneOnMaria / damageTakenByJames < 0.03) 
   {
