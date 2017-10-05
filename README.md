@@ -86,7 +86,7 @@ If you use this information on a website I would appreciate a mention!
 
 ---
 ## Notes
-[1] Say when you are at 85/100HP and heal 25HP, the excess is 10 HP, or 1%.
+[1] Say when you are at 85/100HP and heal 25HP, the excess is 10 HP, or 10%.
 The point is given when `excessHealth > 2.0`, and is calculated like this every time you heal:
 ```c
 health += heal
