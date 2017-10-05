@@ -6,6 +6,7 @@ When reaching the end, the game will calculate points for 4 endings:
 These points are calculated from these flags and conditions:
 
 ## Ritual
+`Ritual` starts at 0 points. These add one point each:
 - Have [Book: "Lost Memories"] in inventory.
 - Have [Book: "Crimson Ceremony"] in inventory.
 - Have [White Chrism] in inventory.
