@@ -28,7 +28,7 @@ These will remove one point each:
 - Bumped in Maria less than three times. [4]
 - Took no damage in the entire game OR Maria took less than 3% the damage you got from monsters. [8]
 - Checked back on Maria in Hospital S3. [5]
-- Tried to go back to see dead Maria in the labyrith twice. (White door)
+- Tried to go back to see dead Maria in the labyrinth twice. (White door)
 - Never got the *Maria* ending but did get the *Leave* ending.
 - Never got the *Maria* ending but did get the *In water* ending.
 
