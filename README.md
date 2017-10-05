@@ -53,21 +53,21 @@ These will remove one point each:
 ---
 After all these points are tallied up, it will look for the good ending through these conditions [9], in order:
 
-1. Are there 4 `Ritual` points? **GET ENDING `Ritual`**.
+1. Are there 4 `Ritual` points? **Get ending *Ritual***.
 
-2. Is `Leave` larger than both `Maria` and `In water`? **GET ENDING `Leave`**.
-3. Did you never get the Leave ending, and `Leave` is larger or equal to both `Maria` and `In water`? **GET ENDING `Leave`**. 
+2. Is `Leave` larger than both `Maria` and `In water`? **Get ending *Leave***.
+3. Did you never get the *Leave* ending, and `Leave` is larger or equal to both `Maria` and `In water`? **Get ending *Leave***. 
 
-4. Is `Maria` larger than both `Leave` and `In water`? **GET ENDING `Maria`**.
-5. Did you never get the Maria ending, and `Maria` is larger or equal to both `Leave` and `In water`? **GET ENDING `Maria`**.
+4. Is `Maria` larger than both `Leave` and `In water`? **Get ending *Maria***.
+5. Did you never get the *Maria* ending, and `Maria` is larger or equal to both `Leave` and `In water`? **Get ending *Maria***.
 
-6. Is `In water` larger than both `Leave` and `Maria`? **GET ENDING `In water`**.
-7. Did you never get the In water ending? then:
-   1. Is `In water` larger or equal to both `Leave` and `Maria`? **GET ENDING `In water`**.
-   2. Is `Leave` larger or equal to both `Maria` and `In water`? **GET ENDING `Leave`**.
-   3. Is `Maria` larger or equal to `In water`? **GET ENDING `Maria`**.
+6. Is `In water` larger than both `Leave` and `Maria`? **Get ending *In water***.
+7. Did you never get the *In water* ending? then:
+   1. Is `In water` larger or equal to both `Leave` and `Maria`? **Get ending *In water***.
+   2. Is `Leave` larger or equal to both `Maria` and `In water`? **Get ending *Leave***.
+   3. Is `Maria` larger or equal to `In water`? **Get ending *Maria***.
 
-8. If none of the above apply, **GET ENDING `In water`**.
+8. If none of the above apply, **Get ending *In water***.
 
 Your ending is determined the moment you go through the very last door, after the hallway with the sickbed conversation.
 It will not change after that.
