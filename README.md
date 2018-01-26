@@ -79,7 +79,7 @@ Note this is from the PC version. In theory it should apply to Restless Dreams o
 
 If you have a question or a query, don't hesitate to send them!
 You can reach me at these places:
-- Discord: Jokie#9392
+- Discord: Jokie#0001
 - GitHub: <https://github.com/JokieW>
 - Twitter: <https://twitter.com/Jokie_W>
 
