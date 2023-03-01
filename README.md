@@ -77,12 +77,6 @@ It will not change after that.
 That's it!
 Note this is from the PC version. In theory it should apply to Restless Dreams on consoles, but I haven't tested.
 
-If you have a question or a query, don't hesitate to send them!
-You can reach me at these places:
-- Discord: Jokie#0001
-- GitHub: <https://github.com/JokieW>
-- Twitter: <https://twitter.com/Jokie_W>
-
 If you use this information on a website I would appreciate a mention!
 
 ---
